@@ -1,0 +1,183 @@
+[submodule "cmocka"]
+	path = cmocka
+	url = git@github.com:clibs/cmocka.git
+[submodule "clib"]
+	path = clib
+	url = git@github.com:clibs/clib.git
+[submodule "entr"]
+	path = entr
+	url = git@github.com:clibs/entr.git
+[submodule "commander"]
+	path = commander
+	url = git@github.com:clibs/commander.git
+[submodule "buffer"]
+	path = buffer
+	url = git@github.com:clibs/buffer.git
+[submodule "list"]
+	path = list
+	url = git@github.com:clibs/list.git
+[submodule "website"]
+	path = website
+	url = git@github.com:clibs/website.git
+[submodule "sha1"]
+	path = sha1
+	url = git@github.com:clibs/sha1.git
+[submodule "jsmn"]
+	path = jsmn
+	url = git@github.com:clibs/jsmn.git
+[submodule "sodium"]
+	path = sodium
+	url = git@github.com:clibs/sodium.git
+[submodule "uv"]
+	path = uv
+	url = git@github.com:clibs/uv.git
+[submodule "flag"]
+	path = flag
+	url = git@github.com:clibs/flag.git
+[submodule "packcc"]
+	path = packcc
+	url = git@github.com:clibs/packcc.git
+[submodule "tig"]
+	path = tig
+	url = git@github.com:clibs/tig.git
+[submodule "makeheaders"]
+	path = makeheaders
+	url = git@github.com:clibs/makeheaders.git
+[submodule "lawn"]
+	path = lawn
+	url = git@github.com:clibs/lawn.git
+[submodule "buffet"]
+	path = buffet
+	url = git@github.com:clibs/buffet.git
+[submodule "hash"]
+	path = hash
+	url = git@github.com:clibs/hash.git
+[submodule "stb"]
+	path = stb
+	url = git@github.com:clibs/stb.git
+[submodule "clib-uninstall"]
+	path = clib-uninstall
+	url = git@github.com:clibs/clib-uninstall.git
+[submodule "http-get.c"]
+	path = http-get.c
+	url = git@github.com:clibs/http-get.c.git
+[submodule "clib-validate"]
+	path = clib-validate
+	url = git@github.com:clibs/clib-validate.git
+[submodule "wildcardcmp"]
+	path = wildcardcmp
+	url = git@github.com:clibs/wildcardcmp.git
+[submodule "clib-cache"]
+	path = clib-cache
+	url = git@github.com:clibs/clib-cache.git
+[submodule "clib-package"]
+	path = clib-package
+	url = git@github.com:clibs/clib-package.git
+[submodule "strdup"]
+	path = strdup
+	url = git@github.com:clibs/strdup.git
+[submodule "fuse-linux"]
+	path = fuse-linux
+	url = git@github.com:clibs/fuse-linux.git
+[submodule "module"]
+	path = module
+	url = git@github.com:clibs/module.git
+[submodule "semver"]
+	path = semver
+	url = git@github.com:clibs/semver.git
+[submodule "graph"]
+	path = graph
+	url = git@github.com:clibs/graph.git
+[submodule "red-black-tree"]
+	path = red-black-tree
+	url = git@github.com:clibs/red-black-tree.git
+[submodule "net"]
+	path = net
+	url = git@github.com:clibs/net.git
+[submodule "check"]
+	path = check
+	url = git@github.com:clibs/check.git
+[submodule "logfmt"]
+	path = logfmt
+	url = git@github.com:clibs/logfmt.git
+[submodule "build_assert"]
+	path = build_assert
+	url = git@github.com:clibs/build_assert.git
+[submodule "parson"]
+	path = parson
+	url = git@github.com:clibs/parson.git
+[submodule "sds"]
+	path = sds
+	url = git@github.com:clibs/sds.git
+[submodule "logger"]
+	path = logger
+	url = git@github.com:clibs/logger.git
+[submodule "lmdb"]
+	path = lmdb
+	url = git@github.com:clibs/lmdb.git
+[submodule "rle"]
+	path = rle
+	url = git@github.com:clibs/rle.git
+[submodule "snappy"]
+	path = snappy
+	url = git@github.com:clibs/snappy.git
+[submodule "speck"]
+	path = speck
+	url = git@github.com:clibs/speck.git
+[submodule "sophia"]
+	path = sophia
+	url = git@github.com:clibs/sophia.git
+[submodule "linenoise"]
+	path = linenoise
+	url = git@github.com:clibs/linenoise.git
+[submodule "sqlite"]
+	path = sqlite
+	url = git@github.com:clibs/sqlite.git
+[submodule "unlikely"]
+	path = unlikely
+	url = git@github.com:clibs/unlikely.git
+[submodule "readline"]
+	path = readline
+	url = git@github.com:clibs/readline.git
+[submodule "bench"]
+	path = bench
+	url = git@github.com:clibs/bench.git
+[submodule "container_of"]
+	path = container_of
+	url = git@github.com:clibs/container_of.git
+[submodule "zerodbg"]
+	path = zerodbg
+	url = git@github.com:clibs/zerodbg.git
+[submodule "bytes"]
+	path = bytes
+	url = git@github.com:clibs/bytes.git
+[submodule "which"]
+	path = which
+	url = git@github.com:clibs/which.git
+[submodule "ms"]
+	path = ms
+	url = git@github.com:clibs/ms.git
+[submodule "mt19937ar"]
+	path = mt19937ar
+	url = git@github.com:clibs/mt19937ar.git
+[submodule "coro"]
+	path = coro
+	url = git@github.com:clibs/coro.git
+[submodule "strndup"]
+	path = strndup
+	url = git@github.com:clibs/strndup.git
+[submodule "dumpasn1"]
+	path = dumpasn1
+	url = git@github.com:clibs/dumpasn1.git
+[submodule "timestamp"]
+	path = timestamp
+	url = git@github.com:clibs/timestamp.git
+[submodule "debug"]
+	path = debug
+	url = git@github.com:clibs/debug.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:clibs/openssl.git
+[submodule "yaml"]
+	path = yaml
+	url = git@github.com:clibs/yaml.git
